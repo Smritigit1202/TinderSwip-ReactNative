@@ -9,9 +9,7 @@ Features
 	•	Responsive UI
 	•	Built with React Native & Expo
 
-Screenshots
 
-(Add screenshots here if available)
 
 Getting Started
 
